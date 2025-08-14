@@ -30,6 +30,6 @@ This SQL-based project analyzes the **Indian General Election Results 2024**, fo
 - `presentation/` → Project presentation
 
 ## 📺 Demo & Presentation
-- [Project Presentation (PPTX)](./presentation/Indian_General_Election_2024.pptx)
+- [Project Presentation (PPTX)](./Indian_General_Election_2024.pptx)
 
 ---
