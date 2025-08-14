@@ -1,5 +1,4 @@
 # Indian-General-Election-2024-SQL-Analysis
-# Indian General Election 2024 – SQL Data Analysis
 
 ## 📌 Overview
 This SQL-based project analyzes the **Indian General Election Results 2024**, focusing on seat distribution, alliance performance, and voting patterns.
